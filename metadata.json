@@ -1,0 +1,8 @@
+{
+  "name": "Lovey - The Ultimate Valentine's Companion",
+  "description": "An elegant, AI-powered Valentine's Day suite featuring personalized love letters, local date planning with real-time search, and a magic gift visualizer.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
